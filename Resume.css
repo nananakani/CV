@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(230, 227, 227);
+}
+h1{
+    font-size: 40px;
+    font-style: normal;
+    font-weight: bold;   
+}
+span{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+}
+nav{
+    padding-right: 2%;
+}
+.header{
+    text-align:right;
+}
+.Resume {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    display: inline;
+    border-right-style: ridge;
+    border-right-color: black;
+    border-right-width: 2px;
+    column-gap: 2px;
+}
+.Projects {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    display: inline;
+    margin: 0.5em;
+    border-right-style: ridge;
+    border-right-color: black;
+    border-right-width: 2px;
+}
+.Contact{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    text-align: right;
+    display: inline;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.second{
+    display: flex;
+    border-bottom: 3px;
+    border-bottom-color: rgba(22, 21, 21, 0.111);
+    border-bottom-style: groove;     
+}
+aside{
+    float: right;
+    width: 500px;
+    height: auto;
+    margin-right: 200px;
+}
+.div1{
+    margin-left: 250px;
+}
+.div2{
+    margin-left: 250px;
+    margin-right: 350px;
+} 
+span{
+    font-weight: bold;
+    margin-left: 15px; 
+}
+.paragraph1{
+    margin-left: 100px; 
+    margin-bottom: 50px;   
+}
+.Third{
+    display: flex;
+    border-bottom: 3px;
+    border-bottom-color: rgba(22, 21, 21, 0.111);
+    border-bottom-style: groove; 
+}
+.Fourth{
+    display: flex;
+    border-bottom: 3px;
+    border-bottom-color: rgba(22, 21, 21, 0.111);
+    border-bottom-style: groove; 
+}

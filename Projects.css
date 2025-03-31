@@ -50,44 +50,39 @@ a{
     color: black;
     text-decoration: none;
 }
-.second{
-    display: flex;
-    border-bottom: 3px;
-    border-bottom-color: rgba(22, 21, 21, 0.111);
-    border-bottom-style: groove;     
+h2{
+    font-size:40px;
+    margin-left: 15%;
+    margin-right: 15%;
 }
-aside{
-    float: right;
+h3{
+    font-size: 28px;
+}
+.container1{
+    display: flex;
+    margin-top: 50px;
+}
+.sec{
+align-items: center;
+margin-left: 15%;
+margin-right: 4%;
+}
+.img1{
+    margin-right: 15%; 
+    margin-top: 4%;
+    margin-left: 5%; 
+    align-items: center;
+}
+img{
     width: 500px;
-    height: auto;
-    margin-right: 200px;
 }
-.div1{
-    margin-left: 250px;
-}
-.div2{
-    margin-left: 250px;
-    margin-right: 350px;
-} 
-span{
-    font-weight: bold;
-    margin-left: 15px; 
-}
-.paragraph1{
-    margin-left: 100px; 
-    margin-bottom: 50px;   
-}
-.Third{
-    display: flex;
-    border-bottom: 3px;
-    border-bottom-color: rgba(22, 21, 21, 0.111);
-    border-bottom-style: groove; 
-}
-.Fourth{
-    display: flex;
-    border-bottom: 3px;
-    border-bottom-color: rgba(22, 21, 21, 0.111);
-    border-bottom-style: groove; 
+.p1{
+    word-spacing: 10px;
+    font-style:normal;
+    font-weight: 300;
+    font-size: 15px;
+    font-family: "Work Sans", sans-serif;
+    font-style: normal;
 }
 .footer{
     display: flex;
